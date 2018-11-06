@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Workout Diary</string>
+    <string name="repeats_count">Повторов:</string>
+    <string name="chooser">Выберите приложение.</string>
+    <string name="complete">Готово</string>
+    <string name="reset">Сброс</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
